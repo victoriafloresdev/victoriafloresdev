@@ -5,7 +5,7 @@
 <div align="center">
 
   <h1>hey, i'm victoria flores 👋</h1>
-  <h3>AI Engineer Intern @ Localiza · Researcher @ SPEEDLab · GenAI, LLMOps & Applied ML</h3>
+  <h3>AI Engineer Intern @ iFood · Researcher @ SPEEDLab · GenAI, LLMOps & Applied ML</h3>
 
   <a href="mailto:victoriafloresmello@gmail.com">
     <img src="https://img.shields.io/badge/Email-victoriafloresmello%40gmail.com-red?style=for-the-badge" alt="Email" />
@@ -32,7 +32,7 @@
 ## 🧠 who i am
 
 - 🎓 Information Systems student at **UFMG**, focusing on **Artificial Intelligence** and **Data Science**.  
-- 💻 **AI Engineer Intern @ Localiza&Co** (GenAI & Software Engineering), building internal platforms for LLMs, RAG and agents.  
+- 💻 **AI Engineer Intern @ iFood** (MLOps, AWS, Databricks), building internal platforms for Machine Learning models, LLMs, LCMs, Agents.  
 - 🧪 **Researcher @ SPEEDLab (UFMG)**, working with **Transformers, GNNs** and ML for healthcare (ECG, ICU data, sepsis subphenotypes).  
 - 🏆 1st place at **Ruptura 2024 – Localiza Hackathon** (ML + GenAI for sales optimization).  
 - 🪄 2nd place at **Google Gemini Challenge – “O Mago da Linguagem”** (agentic GenAI + prompt engineering).  
